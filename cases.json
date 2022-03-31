@@ -1,0 +1,40 @@
+{
+  "cases": [
+    {
+      "type_of_residence_permit": "ICT-1",
+      "ms_country_to_inform": "BE",
+      "file_path": "http://localhost/eumobil/files/be_id_file.pdf",
+      "file_id": "14117"
+    },
+    {
+      "type_of_residence_permit": "ICT-2",
+      "ms_country_to_inform": "NL",
+      "file_path": "http://localhost/eumobil/files/nl_id_file.pdf",
+      "file_id": "14115"
+    },
+    {
+      "type_of_residence_permit": "BC-1",
+      "ms_country_to_inform": "AT",
+      "file_path": "http://localhost/eumobil/files/at_id_file.pdf",
+      "file_id": "14116"
+    },
+    {
+      "type_of_residence_permit": "RES-1",
+      "ms_country_to_inform": "IT",
+      "file_path": "http://localhost/eumobil/files/it_id_file.pdf",
+      "file_id": "14230"
+    },
+    {
+      "type_of_residence_permit": "BC-1",
+      "ms_country_to_inform": "sxdf",
+      "file_path": "http://localhost/eumobil/files/fr_id_file.pdf",
+      "file_id": "14231"
+    },
+    {
+      "type_of_residence_permit": "LTR-1",
+      "ms_country_to_inform": "PT",
+      "file_path": "http://localhost/eumobil/files/1234_id_file.pdf",
+      "file_id": "14232"
+    }
+  ]
+}
